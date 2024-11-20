@@ -1,11 +1,11 @@
 {
-    "name": "illiass26/secure-shield",
+    "name": "ILIASMORSEL/secure-shield",
     "description": "A powerful PHP library for protecting against SQL Injection, XSS, CSRF, and more.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Illiass",
+            "name": "ILIASMORSEL",
             "email": "iliasmorsel@gmail.com"
         }
     ],
