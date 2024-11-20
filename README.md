@@ -28,7 +28,7 @@
 Для установки через Composer выполните команду:
 
 ```bash
-composer require illiass26/secure-shield
+composer require ILIASMORSEL/secure-shield
 ```
 
 
